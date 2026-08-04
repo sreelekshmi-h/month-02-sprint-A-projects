@@ -1,4 +1,8 @@
 # 🎬 Movie Recommendation Engine
+<img width="933" height="356" alt="image" src="https://github.com/user-attachments/assets/58f67e84-aeb7-4807-8aaf-aa592631a3bd" />
+
+<img width="931" height="503" alt="image" src="https://github.com/user-attachments/assets/36a36304-bd22-47d4-9da9-fd64c741ea69" />
+
 
 ## What it does
 
