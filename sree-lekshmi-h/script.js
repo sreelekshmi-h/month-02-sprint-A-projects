@@ -7,7 +7,7 @@ async function searchMovies(){
         return;
     }
 
-    const response=await fetch("http://127.0.0.1:8000/search",{
+    const response=await fetch("https://month-02-sprint-a-projects-production-9379.up.railway.app/search",{
 
         method:"POST",
         headers: {
