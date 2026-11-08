@@ -113,7 +113,7 @@ TMDB_API_KEY=your_tmdb_api_key
 
 - 🔍 Semantic movie search using natural language
 - 🎬 Live movie data fetched from TMDB
-- 🧠 AI-powered recommendations using sentence embeddings
+- 🧠 AI-powered recommendations using sentence embeddings.
 - ⚡ Fast similarity search with ChromaDB
 - 🎨 Modern, responsive user interface
 - 📄 Displays movie posters, ratings, release year, and overview
@@ -133,4 +133,6 @@ TMDB_API_KEY=your_tmdb_api_key
 - The Prestige
 - Gone Girl
 - Knives Out
-
+##Deployed URLS
+Frontend:https://month-02-sprint-a-projects-sree-lek.vercel.app/
+Backend:https://month-02-sprint-a-projects-production-9379.up.railway.app/
